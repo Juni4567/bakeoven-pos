@@ -1,0 +1,19 @@
+16.4 Release!
+
+Whats new:
+* Can now sync with quickbooks online
+* Can now have price rules apply at only specific locations
+* Can now have kits inside Kits
+* Added average cost per unit to price variance reports
+* New permission "process returns" that can restrict employees from doing returns
+* New permission "suspend sale" that can restrict employees from suspending sales
+* Can now hide expire date on barcodes
+* Added web hooks for creating a new customer or a new sale
+* Can now have a default quantity for items & item kits which is used when selling or receiving
+* Can now override taxes on the fly for sales + receivings
+* Added option to hide prices on recv. receipts
+* Added payment type for expenses
+* Now able to save settings for barcode labels
+* Can now edit overall subtotal of a sale or receiving
+* Employee can be assigned a default register
+* Small enhancements and bug fixes

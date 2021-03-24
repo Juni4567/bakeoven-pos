@@ -1,0 +1,6 @@
+[submodule "tools"]
+	path = tools
+	url = git@github.com:PHP-Point-Of-Sale/PHP-Point-Of-Sale-Dev-Tools.git
+[submodule "application/controllers/tests"]
+	path = application/controllers/tests
+	url = git@github.com:PHP-Point-Of-Sale/PHP-Point-Of-Sale-Tests.git

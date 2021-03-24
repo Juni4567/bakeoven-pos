@@ -1,0 +1,1 @@
+[02-Jan-2019 14:56:44 UTC] PHP Fatal error:  Out of memory (allocated 196931584) (tried to allocate 1179648 bytes) in phar:///opt/cpanel/composer/bin/composer/src/Composer/Repository/ComposerRepository.php on line 592
